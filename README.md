@@ -1,4 +1,6 @@
 # Solar System NodeJS Application
+#This is my learning lesson for github actions
+#lets learnt it completely
 
 A simple HTML+MongoDB+NodeJS project to display Solar System and it's planets.
 
